@@ -220,4 +220,5 @@ if __name__ == '__main__':
     root.title('Телефонная книга')
     root.geometry('665x450')
     root.resizable(False,False)
+    #цикл окна
     root.mainloop()
